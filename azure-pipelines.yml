@@ -16,4 +16,4 @@ steps:
     azureSubscription: 'MCAPS-Hybrid-REQ-53241-2023-pritadey(e1a08685-87e0-4432-ba82-4939d68d4bc7)'
     appType: 'webApp'
     WebAppName: 'PritaWebApp'
-    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/.zip'
